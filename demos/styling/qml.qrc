@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MainPage.qml</file>
+        <file>MainPageForm.ui.qml</file>
+        <file>CustomPage.qml</file>
+        <file>CustomPageForm.ui.qml</file>
+        <file>themes/Theme/qmldir</file>
+        <file>themes/Theme/Theme.qml</file>
+        <file>images/qt_logo.png</file>
+        <file>Custom/Page.qml</file>
+    </qresource>
+</RCC>
