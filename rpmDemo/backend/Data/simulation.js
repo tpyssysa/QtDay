@@ -39,7 +39,7 @@ function setDisplayRpm() {
                 if (needleCount > idleNeedleRpm)
                 {
                 needleCount --
-                console.log ((needleCount)+ "needle rpm");
+                // console.log ((needleCount)+ "needle rpm");
 
             }
 
@@ -59,7 +59,7 @@ function readoutTimer()
 
         {
             readoutCount++
-            console.log ((readoutCount)+ "readout rpm");
+            // console.log ((readoutCount)+ "readout rpm");
 
         }
 
